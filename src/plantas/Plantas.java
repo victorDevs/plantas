@@ -18,7 +18,11 @@ public class Plantas {
         // TODO code application logic here
 //        Soy un comentario de ejemplo par el commit de ejemplo
 //Este es otro ejemplo
-///Luis eres bien chipe puto y joto!!! .I.
+///Luis eres bien pinche puto y joto!!! .I.
+    }
+    
+    public void ejenplo(){
+        
     }
     
 }
